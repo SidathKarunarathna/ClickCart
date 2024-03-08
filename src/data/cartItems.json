@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "date": "2024-03-08T10:57:21.393Z",
+        "items": [
+            {
+                "id": 1,
+                "name": "Smartphone",
+                "description": "Stay connected with the latest smartphone featuring a stunning display, advanced camera system, and all-day battery life. Whether you're browsing the web, streaming videos, or capturing memories, this smartphone delivers exceptional performance and reliability.",
+                "price": 499,
+                "image": "https://via.placeholder.com/150",
+                "quantity": 20,
+                "qty": 2
+            },
+            {
+                "id": 2,
+                "name": "Laptop",
+                "description": "Get more done with our powerful laptop, designed for productivity and entertainment. With its sleek design, responsive performance, and immersive display, this laptop is perfect for work, gaming, and everything in between. Experience the ultimate computing experience with our feature-packed laptop.",
+                "price": 999,
+                "image": "https://via.placeholder.com/150",
+                "quantity": 15,
+                "qty": 2
+            },
+            {
+                "id": 3,
+                "name": "Wireless Headphones",
+                "description": "Immerse yourself in your favorite music with our wireless headphones. Featuring crystal-clear sound, comfortable design, and long battery life, these headphones are perfect for music lovers on the go. Enjoy wireless freedom and exceptional audio quality with our premium headphones.",
+                "price": 199,
+                "image": "https://via.placeholder.com/150",
+                "quantity": 25,
+                "qty": 2
+            }
+        ]
+    }
+]

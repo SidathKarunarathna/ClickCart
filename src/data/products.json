@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "description": "Stay connected with the latest smartphone featuring a stunning display, advanced camera system, and all-day battery life. Whether you're browsing the web, streaming videos, or capturing memories, this smartphone delivers exceptional performance and reliability.",
+    "price": 499,
+    "image": "https://i.ibb.co/2hKNYsx/samsung-galaxy-a54-5g.webp",
+    "quantity": 20
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "Get more done with our powerful laptop, designed for productivity and entertainment. With its sleek design, responsive performance, and immersive display, this laptop is perfect for work, gaming, and everything in between. Experience the ultimate computing experience with our feature-packed laptop.",
+    "price": 999,
+    "image": "https://i.ibb.co/HVTFVNF/businesslaptops-2048px-0943.webp",
+    "quantity": 15
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "description": "Immerse yourself in your favorite music with our wireless headphones. Featuring crystal-clear sound, comfortable design, and long battery life, these headphones are perfect for music lovers on the go. Enjoy wireless freedom and exceptional audio quality with our premium headphones.",
+    "price": 199,
+    "image": "https://i.ibb.co/VYn942S/Skullcandy-Cassette-Wireless-Headphones.jpg",
+    "quantity": 25
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "Stay connected and organized with our sleek smartwatch. Track your fitness goals, receive notifications, and access apps right from your wrist. With its stylish design and advanced features, our smartwatch is the perfect companion for your active lifestyle.",
+    "price": 299,
+    "image": "https://i.ibb.co/PxbY9V4/71-TIOh-VWQ5-L.jpg",
+    "quantity": 18
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "description": "Experience the power and versatility of our tablet. Whether you're watching movies, playing games, or working on the go, our tablet delivers stunning visuals and responsive performance. With its lightweight design and long battery life, you can take your entertainment and productivity anywhere.",
+    "price": 399,
+    "image": "https://i.ibb.co/7nwvr17/71-Mt4-JAZQt-L.jpg",
+    "quantity": 20
+  },
+  {
+    "id": 6,
+    "name": "Desktop Computer",
+    "description": "Power through your workday with our high-performance desktop computer. With its blazing-fast processor, ample storage space, and crisp display, this desktop computer is perfect for multitasking and productivity. Take your computing experience to the next level with our reliable desktop computer.",
+    "price": 899,
+    "image": "https://i.ibb.co/7gytn3F/0279768d72d0562388c349aceaebd957.png",
+    "quantity": 12
+  },
+  {
+    "id": 7,
+    "name": "Camera",
+    "description": "Capture life's precious moments with our professional-grade camera. With its high-resolution sensor, advanced shooting modes, and ergonomic design, this camera empowers you to unleash your creativity and capture stunning photos and videos. Elevate your photography game with our premium camera.",
+    "price": 799,
+    "image": "https://i.ibb.co/4p8gFmN/NBD-Digital-Camera-4-K-48-MP-Compact-Camera-3-0-Inch-Ultra-Clear-Screen-You-Tube-Vlogging-Camera-16x.webp",
+    "quantity": 15
+  },
+  {
+    "id": 8,
+    "name": "Gaming Console",
+    "description": "Experience the thrill of gaming with our state-of-the-art gaming console. With its powerful hardware, immersive graphics, and expansive game library, this gaming console delivers unparalleled gaming experiences. Whether you're a casual gamer or a hardcore enthusiast, our gaming console will take your gaming to the next level.",
+    "price": 499,
+    "image": "https://i.ibb.co/rG9rGT2/Sony-Play-Station-5-Gaming-Console-02021359-c4bb-410e-940a-12930acbfd57-4d050069b07b687682d48144eb9d.webp",
+    "quantity": 22
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker",
+    "description": "Stay motivated and track your fitness goals with our fitness tracker. With its built-in heart rate monitor, activity tracking, and personalized insights, this fitness tracker helps you stay on top of your health and fitness journey. Whether you're running, cycling, or hitting the gym, our fitness tracker keeps you moving towards your goals.",
+    "price": 149,
+    "image": "https://i.ibb.co/rGThhvR/61d-V494j-Bg-L-AC-UF1000-1000-QL80.jpg",
+    "quantity": 30
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "description": "Enhance your productivity with our wireless mouse. With its ergonomic design, responsive tracking, and long battery life, this wireless mouse is perfect for work and play. Say goodbye to tangled wires and enjoy the freedom of wireless connectivity with our reliable wireless mouse.",
+    "price": 49,
+    "image": "https://i.ibb.co/54XJHrn/10358-001-720-X720.jpg",
+    "quantity": 40
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker",
+    "description": "Enjoy your favorite tunes anywhere with our portable Bluetooth speaker. With its compact design, powerful sound, and long-lasting battery, this Bluetooth speaker is perfect for parties, outdoor adventures, and everyday use. Connect wirelessly and enjoy music with friends and family wherever you go.",
+    "price": 79,
+    "image": "https://i.ibb.co/t373cDS/71-Gqe2-ENGi-L-AC-UF894-1000-QL80.jpg",
+    "quantity": 25
+  },
+  {
+    "id": 12,
+    "name": "External Hard Drive",
+    "description": "Keep your files safe and secure with our external hard drive. With its large storage capacity, fast data transfer speeds, and durable design, this external hard drive is perfect for backing up your important files, storing multimedia content, and expanding your storage space. Protect your data and keep it accessible wherever you go with our reliable external hard drive.",
+    "price": 129,
+    "image": "https://i.ibb.co/GvzqmB2/TRANSCEND2-TBEXTERNALDRIVE-1024x.webp",
+    "quantity": 18
+  },
+  {
+    "id": 13,
+    "name": "Portable Power Bank",
+    "description": "Never run out of battery power with our portable power bank. With its compact size, high capacity, and fast charging technology, this power bank is perfect for keeping your devices charged on the go. Whether you're traveling, commuting, or enjoying outdoor activities, our portable power bank ensures you stay connected whenever and wherever you need it.",
+    "price": 39,
+    "image": "https://i.ibb.co/Xk9B55S/Ugreen-Power-Bank-SOURCE-Ugreen-Gear.webp",
+    "quantity": 35
+  },
+  {
+    "id": 14,
+    "name": "E-reader",
+    "description": "Discover a world of books with our e-reader. With its glare-free display, adjustable brightness, and lightweight design, this e-reader provides a comfortable reading experience anywhere, anytime. Whether you're relaxing at home, traveling, or commuting, our e-reader lets you carry your entire library in the palm of your hand.",
+    "price": 149,
+    "image": "https://i.ibb.co/4M8t3FM/kindle.jpg",
+    "quantity": 20
+  },
+  {
+    "id": 15,
+    "name": "Smart Speaker",
+    "description": "Stream music, control your smart home devices, and get answers to your questions with our smart speaker. With its built-in voice assistant, powerful sound, and sleek design, this smart speaker is the ultimate hub for your connected home. Experience hands-free convenience and immersive audio with our smart speaker.",
+    "price": 99,
+    "image": "https://i.ibb.co/MspFHQ7/Amazon-Echo-4th-Gen-01.jpg",
+    "quantity": 30
+  }
+]
