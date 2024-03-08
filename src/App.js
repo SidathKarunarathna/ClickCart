@@ -16,9 +16,6 @@ function App() {
   const [cartItems, setCartItems] = useState([]);
   const [orderItems, setOrderItems] = useState([]);
 
-  useEffect(() => {
-    setCartItems(cartItemsData);
-  }, []);
 
   useEffect(() => {
     setOrderItems(orderItemsData);

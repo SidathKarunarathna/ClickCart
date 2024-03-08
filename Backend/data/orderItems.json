@@ -29,5 +29,18 @@
     },
     "id": 1,
     "date": "2024-03-08T10:57:21.393Z"
+  },
+  {
+    "0": {
+      "id": 2,
+      "name": "Laptop",
+      "description": "Get more done with our powerful laptop, designed for productivity and entertainment. With its sleek design, responsive performance, and immersive display, this laptop is perfect for work, gaming, and everything in between. Experience the ultimate computing experience with our feature-packed laptop.",
+      "price": 999,
+      "image": "https://i.ibb.co/HVTFVNF/businesslaptops-2048px-0943.webp",
+      "quantity": 15,
+      "qty": 1
+    },
+    "id": 2,
+    "date": "2024-03-08T14:09:51.107Z"
   }
 ]
