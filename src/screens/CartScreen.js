@@ -11,10 +11,10 @@ const CartItem = ({ item, removeFromCart, increaseQty, decreaseQty }) => {
   return (
     <Paper sx={{ p: 2, mb: 2 }}>
       <Grid container spacing={2} alignItems="center">
-        <Grid item xs={12} md={4}>
+        <Grid item xs={12} md={2}>
           <img src={item.image} alt={item.name} style={style} />
         </Grid>
-        <Grid item xs={12} md={8}>
+        <Grid item xs={12} md={10}>
           <Typography variant="h6">{item.name}</Typography>
           <Typography variant="body1">Price: ${item.price}</Typography>
           <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -91,7 +91,7 @@ const CartScreen = ({ cartItems, removeFromCart, clearCart, increaseQty, decreas
   );
 };
 const style = {
-  maxWidth: '40%',
+  maxWidth: '70%',
   height: 'auto'
 };
 
